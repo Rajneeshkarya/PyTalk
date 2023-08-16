@@ -60,7 +60,7 @@ This is a simple command-line based chat application implemented in Python. It a
 2. To join a chat room:
 
     ```bash
-    python chat.py -j -i 127.0.0.1 -p 12345
+    python PyTalk.py -j -i 127.0.0.1 -p 12345
     ```
 
 ## Contributing
